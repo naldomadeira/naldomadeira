@@ -5,7 +5,7 @@
 
 I'm a developer and manager with 10 years of professional experience in Information Technology. I try to maintain a constant learning of the news technologies of the market and face new challenges.
 
-📫 How to reach me: naldomadeira@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+📫 How to reach me: naldomadeira@gmail.com
 
 ![BuildLove](http://ForTheBadge.com/images/badges/built-with-love.svg)
 

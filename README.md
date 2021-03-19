@@ -1,7 +1,7 @@
 ### Hi, I'm Naldo! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/naldomadeira)](https://github.com/naldomadeira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francinaldomadeira/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francinaldomadeira/)](https://www.linkedin.com/in/francinaldomadeira/)
 
 I'm a developer and manager with 10 years of professional experience in Information Technology. I try to maintain a constant learning of the news technologies of the market and face new challenges.
 
